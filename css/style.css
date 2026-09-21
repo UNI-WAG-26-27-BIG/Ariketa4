@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  line-height: 1.5;
+}
+
+button {
+  display: block;
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#pantaila {
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+}
